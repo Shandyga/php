@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+}
+body{
+    min-width: 320px;
+}
+form > div > div {
+    margin: 10px;
+}
+form > div > p {
+    margin: 10px;
+}
+/* - - - - - - - - - - - - - - - */
+#center, .back, .center {
+    text-align: center;
+    margin: 10px;
+}
+.back a {
+    color: blue;
+}
+.back:visited a {
+    color: blue;
+}
